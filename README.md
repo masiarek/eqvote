@@ -12,12 +12,7 @@ and avoids the worst pitfalls.  It's really great!
 
 When you vote using STAR Voting, your ballot looks something like this:
 
-```
-Amy    0 1 2 3 4 5
-Brad   0 1 2 3 4 5
-Chuck  0 1 2 3 4 5
-Darcy  0 1 2 3 4 5
-```
+![alt text](image.png)
 
 To vote, give every candidate a score from 0 to 5.  5 means you like
 them the most, 0 means you like them the least.  (If you don't pick one
