@@ -14,11 +14,11 @@ When you vote using STAR Voting, your ballot looks something like this:
 
 ![alt text](image.png)
 
-To vote, give every candidate a score from 0 to 5.  5 means you like
-them the most, 0 means you like them the least.  (If you don't pick one
-of the scores, that's the same as a 0.)  If you give two candidates
-the same score, that means you like them equally--you don't have a
-preference between them.
+To vote, give every candidate a score from 0 to 5.  
+5 means you like them the most, 
+0 means you like them the least.  (If you don't pick one of the scores, that's the same as a 0.)  
+
+If you give two candidates the same score, that means you like them equally--you don't have a preference between them.
 
 Tabulating the election is easy!  You apply the **STAR** method:
 **S**core, **T**hen **A**utomatic **R**unoff.
